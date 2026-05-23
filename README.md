@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Play the Game
-* **Download the Build:** [GitHub Page](https://kittymuttgames.github.io/worlds-ending-song/) | [Itch.io](https://kittymuttgames.itch.io/worlds-ending-song)
+* **Download the game:** [GitHub Page](https://kittymuttgames.github.io/worlds-ending-song/) | [Itch.io](https://kittymuttgames.itch.io/worlds-ending-song)
 * **Platform:** Windows 
 
 ---
